@@ -1,0 +1,16 @@
+.textarea {
+    text-align: left;
+    width: 75%;
+    height: 75%;
+    padding: 10px;
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.hidden {
+    display: none;
+}
